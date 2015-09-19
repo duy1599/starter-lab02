@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
@@ -22,6 +23,7 @@
             </div>
             <div class="alone"></div>
             <div id="content">
+			-->
                 <h1>About This Site</h1>
                 <p>This is a really simple image gallery, intended as more than a "hello world" example'
                     to be implemented using different MVC frameworks, so they can be compared.</p>
@@ -33,7 +35,8 @@
                 <p>The website uses the jquery Javascript framework, so that it can also use the jquery lightbox plugin.</p>
                 <h2>The Story</h2>
                 <p>This website was created for the Spring 2014 session of ACIT2910, at <a href="http://www.bcit.ca" target="_blank">BCIT</a>.</p>
-            </div>
+            <!--
+			</div>
             <div id="footer" class="span12">
                 Copyright &copy; 2014,  <a href="mailto:someone@somewhere.com">Me</a>.
             </div>
@@ -42,3 +45,4 @@
         <script type="text/javascript" src="js/lightbox.min.js"></script> 
     </body>
 </html>
+-->
